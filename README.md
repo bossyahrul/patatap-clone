@@ -1,7 +1,7 @@
-# patatap-clone
+# [Patatap](https://patatap.com/) Clone
 :musical_note: Patatap clone - JSJam Codelab 2017
 
-This is the code for Webdev Community JSJam 2017, open source for your inspiration. It's not meant for installation or customization.
+This is the codelab for Webdev Community JSJam 2017, creating clone of [Patatap](https://patatap.com/) website.
 
 ## External resources
 
